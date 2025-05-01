@@ -13,6 +13,6 @@
 
 ## Author
 
-fredcss.dev &copy; **[Frederick Chen](https://www.ohdragonboi.cn)** | Published under [MIT-License](LICENSE).
+**fredcss.dev** &copy; [Frederick Chen](https://www.ohdragonboi.cn) | Published under [MIT-License](LICENSE).
 
-<h6><samp><a href="https://fredcss.dev">portfolio</a> · <a href="https://www.ohdragonboi.cn">blog</a> · github <a href="https://github.com/ToothlessHaveBun">(@ToothlessHaveBun)</a> · twitter(x) <a href="https://x.com/FrederickAsYou">(@FrederickAsYou)</a> · bluesky <a href="https://bsky.app/profile/fredcss17.bsky.social">(@fredcss17.bsky.social)</a></samp><h6>
+> [Portfolio](https://fredcss.dev) · [Blog :cn:](https://www.ohdragonboi.cn) · GitHub @ [wczffl-503](https://github.com/wczffl-503) · Twitter @ [wczffL_503](https://x.com/wczffL_503) · contact@ohdragonboi.cn
